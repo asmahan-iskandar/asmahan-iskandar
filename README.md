@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Cat blinking](assets/cat.gif)
+![Cat blinking](https://raw.githubusercontent.com/asmahan-iskandar/asmahan-iskandar/main/cat.gif)
