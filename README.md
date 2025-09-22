@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Add cat.gif to README
+![Cat blinking](assets/cat.gif)
